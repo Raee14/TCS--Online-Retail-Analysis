@@ -1,8 +1,6 @@
 # TCS-Online-Retail-Analysis
 I recently participated in the Tata Group Virtual Job Simulation at Forage, focusing on Data Visualization: Empowering Business with Effective Insights. My mission? Transform raw data into clear and impactful visuals, answering crucial questions posed by the CEO and CMO.
 
-### TCS Job Simulation: Unveiling Data Insights with Power BI 
-Excited to share insights I uncovered from business data in  Tata Group's Data Visualisation: Empowering Business with Effective Insights on Forage. My mission? Transform raw data into clear and impactful visuals, answering crucial questions posed by the CEO and CMO.
 
 ## Data Detective Tools:
 - Power BI: The workhorse for creating dynamic and visually compelling data analysis.
